@@ -9,9 +9,8 @@
 
 - 🔭 I’m currently working on **Center for System Design (NIT-K)**
 
-- 🌱 I’m currently learning **AngularJS**
-
-- 💬 Ask me about **Web Development,MERN.**
+-🌱 I’m currently exploring Machine Learning & Deep Learning concepts
+💬 Ask me about Data Science, Model Building, and ML workflows
 
 - 📫 How to reach me **prajwalsalian65@gmail.com**
 
