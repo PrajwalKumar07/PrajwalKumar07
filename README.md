@@ -129,11 +129,29 @@
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajwalkumar07&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwalkumar07&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prajwalkumar07&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Wakatime Stats"/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/W5BWeQ3ZN0W6KT5CB1/giphy.gif" width="80" alt="Trophy"/>
+        <br>
+        <b>152 Total Contributions</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80" alt="Star"/>
+        <br>
+        <b>Active Developer</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80" alt="Rocket"/>
+        <br>
+        <b>ML Enthusiast</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -222,12 +240,86 @@
 
 ---
 
-### 🎯 Pinned Repositories
+### 🎯 Featured Projects & Portfolio
 
 <div align="center">
-  <a href="https://github.com/prajwalkumar07">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkumar07&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Repo 1"/>
+  <a href="https://prajwalkumar07.github.io/Prajwal-Kumar-Portfolio/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwalkumar07&repo=Prajwal-Kumar-Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Portfolio"/>
   </a>
+</div>
+
+<div align="center">
+  <h3>🌐 Visit My Portfolio Website</h3>
+  <a href="https://prajwalkumar07.github.io/Prajwal-Kumar-Portfolio/" target="_blank">
+    <!-- <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Now-F85D7F?style=for-the-badge&logoColor=white" alt="Visit Portfolio"/> -->
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="180" alt="AI ML"/>
+        <br>
+        <b>🤖 AI/ML Engineering</b>
+        <br>
+        <p><i>Machine Learning Models<br>Computer Vision<br>NLP Solutions</i></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="180" alt="Web Development"/>
+        <br>
+        <b>💻 Full-Stack Development</b>
+        <br>
+        <p><i>React & Next.js<br>Node.js Backend<br>API Development</i></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100%" height="180" alt="3D Graphics"/>
+        <br>
+        <b>🎨 3D Experiences</b>
+        <br>
+        <p><i>Three.js Projects<br>WebGL Graphics<br>Interactive 3D</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h4>📊 Portfolio Highlights</h4>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="60" alt="AI ML"/>
+        <br>
+        <b>10+ ML Projects</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" width="60" alt="Next.js"/>
+        <br>
+        <b>5+ Technologies</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="60" alt="Python"/>
+        <br>
+        <b>2+ Years Experience</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60" alt="Three.js"/>
+        <br>
+        <b>Junior Research Fellow</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://prajwalkumar07.github.io/Prajwal-Kumar-Portfolio/">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Click Here"/>
+  </a>
+  <br>
+  <h4>👆 Click to Explore My Complete Portfolio 👆</h4>
 </div>
 
 ---
