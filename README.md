@@ -251,8 +251,13 @@
 <div align="center">
   <h3>🌐 Visit My Portfolio Website</h3>
   <a href="https://prajwalkumar07.github.io/Prajwal-Kumar-Portfolio/" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Now-F85D7F?style=for-the-badge&logoColor=white" alt="Visit Portfolio"/> -->
+    <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Now-F85D7F?style=for-the-badge&logoColor=white" alt="Visit Portfolio"/>
   </a>
+  <br><br>
+  <a href="https://prajwalkumar07.github.io/Prajwal-Kumar-Portfolio/" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBvZzJ5aHN0c2gxYnRkdXd5OHJwZmQ3dGZ3dGx0dXN5cGZrb2N2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Portfolio Preview"/>
+  </a>
+  <p><i>👆 Click the image above to explore my complete portfolio 👆</i></p>
 </div>
 
 <br>
