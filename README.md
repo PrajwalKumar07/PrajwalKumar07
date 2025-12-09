@@ -1,4 +1,5 @@
-[![MasterHead](https://www.strategiesbydesigngroup.com/wp-content/uploads/2019/07/innovation-not-creativity-1080x675.jpg)](https://prajwalkumar07.io)
+[![MasterHead](https://raw.githubusercontent.com/prajwalkumar07/<your-repo>/main/masterhead.png)](https://prajwalkumar07.io)
+
 <h1 align="center">Hi 👋, I'm Prajwal Kumar</h1>
 <h3 align="center">AI & Machine Learning Engineer • Python Developer</h3>
 
