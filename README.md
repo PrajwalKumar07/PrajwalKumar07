@@ -192,8 +192,10 @@
 
 ### 🎨 Creative Coding
 
+### 🎨 Creative Coding
+
 <div align="center">
-  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif))" width="400" alt="Creative Coding"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Creative Coding"/>
 </div>
 
 <p align="center">
