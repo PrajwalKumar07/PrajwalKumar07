@@ -31,7 +31,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **Center for System Design (NIT-K)**
+- 🔭 Currently working at the Center for System Design, National Institute of Technology Karnataka (NITK)
 - 🌱 Exploring **Machine Learning & Deep Learning** concepts
 - 🎮 Building **3D experiences with Three.js**
 - 💡 Creating intelligent systems with **Python & TensorFlow**
